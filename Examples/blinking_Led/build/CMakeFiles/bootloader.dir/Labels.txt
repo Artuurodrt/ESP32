@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/arturodrt/Documents/ESP32_Repo/Examples/blinking_Led/build/CMakeFiles/bootloader
+/Users/arturodrt/Documents/ESP32_Repo/Examples/blinking_Led/build/CMakeFiles/bootloader.rule
+/Users/arturodrt/Documents/ESP32_Repo/Examples/blinking_Led/build/CMakeFiles/bootloader-complete.rule
+/Users/arturodrt/Documents/ESP32_Repo/Examples/blinking_Led/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/arturodrt/Documents/ESP32_Repo/Examples/blinking_Led/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/arturodrt/Documents/ESP32_Repo/Examples/blinking_Led/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/arturodrt/Documents/ESP32_Repo/Examples/blinking_Led/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/arturodrt/Documents/ESP32_Repo/Examples/blinking_Led/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/arturodrt/Documents/ESP32_Repo/Examples/blinking_Led/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/arturodrt/Documents/ESP32_Repo/Examples/blinking_Led/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/Users/arturodrt/Documents/Esp32/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/Users/arturodrt/Documents/ESP32_Repo/Examples/blinking_Led/build/bootloader",
+    "config_file":        "/Users/arturodrt/Documents/ESP32_Repo/Examples/blinking_Led/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4-dirty",
+    "target":             "esp32",
+    "rev":                "0",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/Users/arturodrt/Documents/Esp32/esp-idf/components/efuse/Kconfig;/Users/arturodrt/Documents/Esp32/esp-idf/components/esp32/Kconfig;/Users/arturodrt/Documents/Esp32/esp-idf/components/esp_common/Kconfig;/Users/arturodrt/Documents/Esp32/esp-idf/components/esp_hw_support/Kconfig;/Users/arturodrt/Documents/Esp32/esp-idf/components/esp_system/Kconfig;/Users/arturodrt/Documents/Esp32/esp-idf/components/freertos/Kconfig;/Users/arturodrt/Documents/Esp32/esp-idf/components/hal/Kconfig;/Users/arturodrt/Documents/Esp32/esp-idf/components/log/Kconfig;/Users/arturodrt/Documents/Esp32/esp-idf/components/newlib/Kconfig;/Users/arturodrt/Documents/Esp32/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/Users/arturodrt/Documents/Esp32/esp-idf/components/bootloader/Kconfig.projbuild;/Users/arturodrt/Documents/Esp32/esp-idf/components/esp_rom/Kconfig.projbuild;/Users/arturodrt/Documents/Esp32/esp-idf/components/esptool_py/Kconfig.projbuild;/Users/arturodrt/Documents/Esp32/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/Users/arturodrt/Documents/Esp32/esp-idf/components/bootloader", "/Users/arturodrt/Documents/Esp32/esp-idf/components/bootloader_support", "/Users/arturodrt/Documents/Esp32/esp-idf/components/efuse", "/Users/arturodrt/Documents/Esp32/esp-idf/components/esp32", "/Users/arturodrt/Documents/Esp32/esp-idf/components/esp_common", "/Users/arturodrt/Documents/Esp32/esp-idf/components/esp_hw_support", "/Users/arturodrt/Documents/Esp32/esp-idf/components/esp_rom", "/Users/arturodrt/Documents/Esp32/esp-idf/components/esp_system", "/Users/arturodrt/Documents/Esp32/esp-idf/components/esptool_py", "/Users/arturodrt/Documents/Esp32/esp-idf/components/freertos", "/Users/arturodrt/Documents/Esp32/esp-idf/components/hal", "/Users/arturodrt/Documents/Esp32/esp-idf/components/log", "/Users/arturodrt/Documents/Esp32/esp-idf/components/bootloader/subproject/main", "/Users/arturodrt/Documents/Esp32/esp-idf/components/bootloader/subproject/components/micro-ecc", "/Users/arturodrt/Documents/Esp32/esp-idf/components/newlib", "/Users/arturodrt/Documents/Esp32/esp-idf/components/partition_table", "/Users/arturodrt/Documents/Esp32/esp-idf/components/soc", "/Users/arturodrt/Documents/Esp32/esp-idf/components/spi_flash", "/Users/arturodrt/Documents/Esp32/esp-idf/components/xtensa", "" ]
+}
